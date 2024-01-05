@@ -5,6 +5,8 @@
 
 <b>The order of the Jupyter notebook is in the right order and should be simply run from top to bottom</b>
 
+<b>Make sure that the youtube.rar file is first extracted into the same directory where the notebook is stored. Without extraction the code will fail to run</b>
+
 The only exception to this are the first two code cells which need to be run once, followed by a Kernel restart. Once the Kernel restart has been done, the code can be run again all the way from the top. Even if the first two cells are run again, they won't affect the notebook as the required settings and packages would already have been installed on the first run. 
 
 ## Execution Time Extention Enablement on Jupyter Notebook
