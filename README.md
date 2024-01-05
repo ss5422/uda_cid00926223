@@ -110,6 +110,8 @@ The memory is then efficiently allocated per gensim algorithm to the active core
 
 ## Runtime 
 
+Please note that the runtime is based on one of the runs. The jupyter notebook may contain a slightly different value but not significantly different.
+
 <ul>
 <li>Data Load and Preprocess - 24.43s</li>
 <li>EDA (The full section) - 24.655s (Majority of the runtime was due to Word Cloud section)</li>
